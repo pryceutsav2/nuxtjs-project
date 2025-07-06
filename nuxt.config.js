@@ -2,7 +2,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  // Global App headers: https://go.nuxtjs.dev/config-head
+  // Global App headers: https://goq.nuxtjs.dev/config-head
   head: {
     title: 'My Nuxt Application',
     meta: [
